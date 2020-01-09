@@ -1,2 +1,2 @@
 # utils
- convenience scripts
+ convenience scripts | Sourced from the MasterMind of Frank W.
